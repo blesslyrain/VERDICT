@@ -6,7 +6,7 @@
 
 Готовые версии — в разделе **Releases**:
 
-https://github.com/blesslyrain/forum-monster/releases
+https://github.com/blesslyrain/VERDICT/releases
 
 - **VERDICT Setup.exe** — установщик;
 - **VERDICT vX.Y.Z.zip** — портативная версия и автообновление.
@@ -15,4 +15,4 @@ https://github.com/blesslyrain/forum-monster/releases
 
 Доступ выдаётся вручную по нику на форуме. Список одобренных:
 
-https://github.com/blesslyrain/forum-monster/blob/main/access.json
+https://github.com/blesslyrain/VERDICT/blob/main/access.json

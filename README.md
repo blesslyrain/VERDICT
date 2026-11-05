@@ -1,4 +1,4 @@
-# Forum Monster
+# VERDICT
 
 Приложение для администрации форума «Россия Онлайн»: уведомления о жалобах и авто-взятие через расширение Majestic Forum.
 
@@ -8,5 +8,11 @@
 
 https://github.com/blesslyrain/forum-monster/releases
 
-- **Forum Monster Setup.exe** — установщик;
-- **Forum Monster vX.Y.Z.zip** — портативная версия и автообновление.
+- **VERDICT Setup.exe** — установщик;
+- **VERDICT vX.Y.Z.zip** — портативная версия и автообновление.
+
+## Доступ
+
+Доступ выдаётся вручную по нику на форуме. Список одобренных:
+
+https://github.com/blesslyrain/forum-monster/blob/main/access.json
